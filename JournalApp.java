@@ -14,29 +14,21 @@ public class JournalApp {
     
     private static void initializeData() {
         // Sample journal data
-        library.addJournal(new Journal("Morning Peace", "Dr. Smith", "Anxiety", 
-            "Take deep breaths. Focus on the present moment. You are safe."));
+        library.addJournal(new Journal("Source: HelpGuide.org https://share.google/OxsYTYXzkZXbG5nKX"));
         
-        library.addJournal(new Journal("Overcoming Fear", "Sarah Johnson", "Anxiety", 
-            "Fear is just a feeling. Acknowledge it, then let it pass."));
+        library.addJournal(new Journal("Source: Government of Western Australia Department of Health https://share.google/4iv87X9KTUOsCeyNz"));
         
-        library.addJournal(new Journal("Rising Again", "Mike Brown", "Depression", 
-            "Every day is a new beginning. Small steps lead to big changes."));
+        library.addJournal(new Journal("Source: Early Psychosis Intervention Ontario Network (EPION) https://share.google/6rrHGdjHxMJ2G8vIZ"));
         
-        library.addJournal(new Journal("Finding Light", "Emma Wilson", "Depression", 
-            "Even on dark days, look for tiny moments of joy."));
+        library.addJournal(new Journal("Source: Money & Youth https://share.google/zxMRqRsgw2onqPTAH"));
         
-        library.addJournal(new Journal("Daily Fuel", "John Doe", "Motivation", 
-            "You are capable of amazing things. Start with one small action."));
+        library.addJournal(new Journal("Source: PCC Harbormasters https://share.google/NlLtTLN1uLRtawwWt"));
         
-        library.addJournal(new Journal("Power Within", "Lisa Ray", "Motivation", 
-            "Believe in yourself. You've overcome challenges before."));
+        library.addJournal(new Journal("Source: American Psychological Association (APA) https://share.google/OdFI6jiitR5staqoO"));
         
-        library.addJournal(new Journal("Calm Mind", "Dr. Chen", "Stress", 
-            "Stress is temporary. Take a break, breathe, reset."));
+        library.addJournal(new Journal("Source: National Institute of Mental Health (NIMH) (.gov) https://share.google/hoNyo0q9DA7UmJuEc"));
         
-        library.addJournal(new Journal("Gratitude Practice", "Anna Lee", "Wellness", 
-            "Write three things you're grateful for today."));
+        library.addJournal(new Journal("Source: National Institute of Mental Health (NIMH) (.gov) https://share.google/hoNyo0q9DA7UmJuEc"));
     }
     
     private static void setupUser() {
